@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pyngrok
+web3
+requests
+streamlit
